@@ -3,6 +3,7 @@ body {
     font-family: monospace;
     font-size: 1em;
     max-height: 100%;
+    overflow: scroll;
 }
 
 html {
