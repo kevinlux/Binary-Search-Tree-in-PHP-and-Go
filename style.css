@@ -6,12 +6,6 @@ body {
     overflow: scroll;
 }
 
-html {
-    max-height: 100%;
-    overflow: hidden;
-}
-
-
 h1 {
     position: static;
     display: block;
